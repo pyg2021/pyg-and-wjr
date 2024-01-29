@@ -24,7 +24,7 @@ new TypeIt("#pygwjr", {
         delay: 500
     })
     .go()
-new TypeIt('#talkToXHJ', {
+new TypeIt('#talkToWJR', {
     lifeLike: true,
     cursorSpeed: 1000,
     waitUntilVisible: true,
